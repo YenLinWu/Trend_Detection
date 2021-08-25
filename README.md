@@ -7,3 +7,9 @@
 **[2]** Methods for Identifying Out-of-Trend Data in Analysis of Stability Measurements–Part I: Regression Control Chart, Máté Mihalovits and Sándor Kemény, November 2, 2017. [ [Download Link](https://cdn.sanity.io/files/0vv8moc6/pharmtech/e80e5dbb15ba554cd2a9aaa7200c6ef665ffc019.pdf) ] [ [Reading Note](https://colab.research.google.com/github/YenLinWu/Trend_Detection/blob/main/Regression_Control_Chart/Reading_Note.ipynb) ]   
 </br> 
 **[3]** Learning Conﬁdence for Out-of-Distribution Detection in Neural Networks,  [ [Download Link](https://arxiv.org/pdf/1802.04865.pdf) ]
+</br> 
+
+
+## Further Readings
+**[1]** [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+</br> 
