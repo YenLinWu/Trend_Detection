@@ -14,6 +14,9 @@
 </br> 
 
 
-## Further Readings
-**[1]** [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+## Further Readings    
+
+**[1]** [dtw-python: Dynamic Time Warping in Python](https://dynamictimewarping.github.io/python/)
+</br> 
+**[2]** [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 </br> 
