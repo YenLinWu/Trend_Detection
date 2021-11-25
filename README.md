@@ -1,5 +1,10 @@
 # Trend Detection  
 
+## Algorithm
+[1] Multidimensional Scaling, MDS [ [Studying Note](https://hackmd.io/@20gd3hLfS7G4xfz9rKqycw/multidimensional_scaling) ][ [Sample Code](https://colab.research.google.com/github/YenLinWu/Trend_Detection/blob/main/Multidimensional_Scaling/Multidimensional_Scaling.ipynb) ]
+
+
+
 ## References
 
 **[1]** Identification of Out-of-Trend Stability Results, PhRMA CMC Statistics and Stability Expert Teams, April 2003. [ [Download Link](http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/22/5d9c565f-81ff-4879-aaed-20acd24d0335/article-52982.pdf) ]    
