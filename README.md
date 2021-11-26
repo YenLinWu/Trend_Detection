@@ -3,7 +3,10 @@
 ## Algorithm
 [1] Multidimensional Scaling, MDS [ [Studying Note](https://hackmd.io/@20gd3hLfS7G4xfz9rKqycw/multidimensional_scaling) ][ [Sample Code](https://colab.research.google.com/github/YenLinWu/Trend_Detection/blob/main/Multidimensional_Scaling/Multidimensional_Scaling.ipynb) ]
 
+[link](https://hackmd.io/@20gd3hLfS7G4xfz9rKqycw/multidimensional_scaling){target="_blank"}
 
+<a href="https://hackmd.io/@20gd3hLfS7G4xfz9rKqycw/multidimensional_scaling" target="_blank">Studying Note</a>
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ## References
 
