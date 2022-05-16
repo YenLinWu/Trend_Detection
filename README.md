@@ -1,4 +1,5 @@
 # Trend Detection  
+![Python](https://img.shields.io/badge/Python-3.7.13-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.21.6-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.2.2-range.svg) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-1.0.2-range.svg) ![DTAIDistance](https://img.shields.io/badge/DTAIDistance-2.3.6-range.svg)
 
 ## Algorithm
 [1] Multidimensional Scaling, MDS [ [Studying Note](https://hackmd.io/@20gd3hLfS7G4xfz9rKqycw/multidimensional_scaling) ][ [Sample Code](https://colab.research.google.com/github/YenLinWu/Trend_Detection/blob/main/Multidimensional_Scaling/Multidimensional_Scaling.ipynb) ]
