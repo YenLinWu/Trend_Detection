@@ -10,9 +10,67 @@
 
 ## Proof Of Concept
 
+The test data in this work are from a real panel process by Electronic Data Capture(EDC) system. The pattern of the test data is shown in the following figure.
+<p align='left'>
+  <img src='./Output_Images_of_POC/Normal_and_Test_Data.png'>  
 
-## References
+  
+### Model Performance  
+<h3><b>  
+<details>  
+<summary> Test 1 </summary>
+  <p align='left'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_1.png' width='500'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_1.gif' width='485'>
+</details>   
+</b></h3>
 
+<h3><b>
+<details>  
+<summary> Test 2 </summary>
+  <p align='left'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_2.png' width='500'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_2.gif' width='485'>
+</details>   
+</b></h3>
+
+<h3><b>
+<details>  
+<summary> Test 3 </summary>
+  <p align='left'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_3.png' width='500'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_3.gif' width='485'>
+</details>   
+</b></h3>
+
+<h3><b>
+<details>  
+<summary> Test 4 </summary>
+  <p align='left'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_4.png' width='500'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_4.gif' width='485'>
+</details>   
+</b></h3>
+
+<h3><b>
+<details>  
+<summary> Test 5 </summary>
+  <p align='left'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_5.png' width='500'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_5.gif' width='485'>
+</details>   
+</b></h3>
+
+<h3><b>
+<details>  
+<summary> Test 6 </summary>
+  <p align='left'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_6.png' width='500'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_6.gif' width='485'>
+</details>   
+</b></h3>
+
+## References  
 **[1]** Similarity Measures and Dimensionality Reduction Techniques for Time Series Data Mining, Carmelo Cassisi, Placido Montalto, Marco Aliotta, Andrea Cannata and Alfredo Pulvirenti, September 2012.  [ [Download Link](https://www.intechopen.com/chapters/39030) ]
 </br>   
 **[2]** Identification of Out-of-Trend Stability Results, PhRMA CMC Statistics and Stability Expert Teams, April 2003. [ [Download Link](http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/22/5d9c565f-81ff-4879-aaed-20acd24d0335/article-52982.pdf) ]    
