@@ -17,7 +17,7 @@ The sample dataset in this work is from a real panel process by Electronic Data 
   <img src='./Images_of_README/sample_data.png' width='250'>  
 
 * Normal Pattern    
-The overall pattern of the sample dataset is shown in the following figure. First, we define normal pattern from 2021/2/12 01:54:44 to 2021/2/19 15:17:28, i.e., this normal pattern is in [15784, 25000] time step subinterval.  
+The overall pattern of the sample dataset is shown in the following figure. First, the normal pattern must be defined. We define the normal pattern by the data from 2021/2/12 01:54:44 to 2021/2/19 15:17:28, i.e., the normal pattern is in [15784, 25000] time step subinterval.  
 <p align='left'>
   <img src='./Output_Images_of_POC/Normal_and_Test_Data.png' width='750'>  
   
