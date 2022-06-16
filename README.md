@@ -5,12 +5,19 @@
 <span> - &copy; Tom Wu (<a href="https://github.com/YenLinWu">Github</a>) </span>  
 
 ## Algorithm  
-[1] Dynamic Time Warping, DTW [ [Studying Note](https://colab.research.google.com/github/YenLinWu/Trend_Detection/blob/main/Dynamic_Time_Warping/Studying_Note.ipynb) ]  
+<img src='./Images_of_README/algorithm.png'>
+
+[1] Dynamic Time Warping, DTW [ [Studying Note](https://colab.research.google.com/github/YenLinWu/Trend_Detection/blob/main/Dynamic_Time_Warping/Studying_Note.ipynb) ]    
 [2] Multidimensional Scaling, MDS [ [Studying Note](https://hackmd.io/@20gd3hLfS7G4xfz9rKqycw/multidimensional_scaling) ][ [Sample Code](https://colab.research.google.com/github/YenLinWu/Trend_Detection/blob/main/Multidimensional_Scaling/Multidimensional_Scaling.ipynb) ]
 
 ## Proof Of Concept
+* Test Dataset  
+The test data in this work are from a real panel process by Electronic Data Capture(EDC) system. There are 95,419 data of the test item between 1st February 2021 and 19th January 2022, with 11 times parts replacement.  
+<p align='left'>
+  <img src='./Images_of_README/sample_data.png' width='200'>  
 
-The test data in this work are from a real panel process by Electronic Data Capture(EDC) system. The pattern of the test data is shown in the following figure.
+* Normal Pattern    
+The overall pattern of the test data is shown in the following figure. Here, we define normal trend pattern from 2021/2/12 01:54:44 to 2021/2/19 15:17:28, i.e., the normal pattern is in [15784, 25000] time step subinterval.  
 <p align='left'>
   <img src='./Output_Images_of_POC/Normal_and_Test_Data.png'>  
 
