@@ -11,24 +11,26 @@
 [2] Multidimensional Scaling, MDS [ [Studying Note](https://hackmd.io/@20gd3hLfS7G4xfz9rKqycw/multidimensional_scaling) ][ [Sample Code](https://colab.research.google.com/github/YenLinWu/Trend_Detection/blob/main/Multidimensional_Scaling/Multidimensional_Scaling.ipynb) ]
 
 ## Proof Of Concept
-* Test Dataset  
-The test data in this work are from a real panel process by Electronic Data Capture(EDC) system. There are 95,419 data of the test item between 1st February 2021 and 19th January 2022, with 11 times parts replacement.  
+* Sample Dataset  
+The sample dataset in this work is from a real panel process by Electronic Data Capture(EDC) system. There are 95,419 data of the test item between 1st February 2021 and 19th January 2022, with 11 times parts replacement.  
 <p align='left'>
   <img src='./Images_of_README/sample_data.png' width='200'>  
 
 * Normal Pattern    
-The overall pattern of the test data is shown in the following figure. Here, we define normal trend pattern from 2021/2/12 01:54:44 to 2021/2/19 15:17:28, i.e., the normal pattern is in [15784, 25000] time step subinterval.  
+The overall pattern of the test data is shown in the following figure. First, we define normal pattern from 2021/2/12 01:54:44 to 2021/2/19 15:17:28, i.e., this normal pattern is in [15784, 25000] time step subinterval.  
 <p align='left'>
   <img src='./Output_Images_of_POC/Normal_and_Test_Data.png'>  
-
+  
+* Test Data   
+Now, we will detect the pattern of each test data (Test 1~6 in the above figure) by comparing each test data and defined normal data.  
   
 ### Model Performance  
 <h3><b>  
 <details>  
 <summary> Test 1 </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_1.png' width='500'>
-  <img src='./Output_Images_of_POC/Detection_Output_of_Test_1.gif' width='485'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_1.png' width='450'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_1.gif' width='435'>
 </details>   
 </b></h3>
 
