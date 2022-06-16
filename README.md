@@ -17,9 +17,9 @@ The sample dataset in this work is from a real panel process by Electronic Data 
   <img src='./Images_of_README/sample_data.png' width='200'>  
 
 * Normal Pattern    
-The overall pattern of the test data is shown in the following figure. First, we define normal pattern from 2021/2/12 01:54:44 to 2021/2/19 15:17:28, i.e., this normal pattern is in [15784, 25000] time step subinterval.  
+The overall pattern of the sample dataset is shown in the following figure. First, we define normal pattern from 2021/2/12 01:54:44 to 2021/2/19 15:17:28, i.e., this normal pattern is in [15784, 25000] time step subinterval.  
 <p align='left'>
-  <img src='./Output_Images_of_POC/Normal_and_Test_Data.png'>  
+  <img src='./Output_Images_of_POC/Normal_and_Test_Data.png' width='700'>  
   
 * Test Data   
 Now, we will detect the pattern of each test data (Test 1~6 in the above figure) by comparing each test data and defined normal data.  
@@ -29,8 +29,8 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 1 </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_1.png' width='450'>
-  <img src='./Output_Images_of_POC/Detection_Output_of_Test_1.gif' width='435'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_1.png' width='380'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_1.gif' width='370'>
 </details>   
 </b></h3>
 
@@ -38,8 +38,8 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 2 </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_2.png' width='500'>
-  <img src='./Output_Images_of_POC/Detection_Output_of_Test_2.gif' width='485'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_2.png' width='400'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_2.gif' width='390'>
 </details>   
 </b></h3>
 
@@ -47,8 +47,8 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 3 </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_3.png' width='500'>
-  <img src='./Output_Images_of_POC/Detection_Output_of_Test_3.gif' width='485'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_3.png' width='400'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_3.gif' width='390'>
 </details>   
 </b></h3>
 
@@ -56,8 +56,8 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 4 </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_4.png' width='500'>
-  <img src='./Output_Images_of_POC/Detection_Output_of_Test_4.gif' width='485'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_4.png' width='400'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_4.gif' width='390'>
 </details>   
 </b></h3>
 
@@ -65,8 +65,8 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 5 </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_5.png' width='500'>
-  <img src='./Output_Images_of_POC/Detection_Output_of_Test_5.gif' width='485'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_5.png' width='400'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_5.gif' width='390'>
 </details>   
 </b></h3>
 
@@ -74,8 +74,8 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 6 </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_6.png' width='500'>
-  <img src='./Output_Images_of_POC/Detection_Output_of_Test_6.gif' width='485'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_6.png' width='400'>
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_6.gif' width='390'>
 </details>   
 </b></h3>
 
