@@ -4,6 +4,13 @@
 ## Author  
 <span> - &copy; Tom Wu (<a href="https://github.com/YenLinWu">Github</a>) </span>  
 
+## Objective    
+The statistical process control (SPC) chart is used to study the changes in the process over time by plotting data points, control limits, and a center line. A process should be in control to assess the process capability. The SPC chart was invented by [Walter A. Shewhart](https://en.wikipedia.org/wiki/Walter_A._Shewhart) working for Bell Labs in the 1920s. But, we cannot use the SPC chart to objectively assess process capability if there is a trend in the data over time.  
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/93/Xbar_chart_for_a_paired_xbar_and_R_chart.svg' width='550'> 
+  
+Image Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbar_chart_for_a_paired_xbar_and_R_chart.svg)  
+
 ## Algorithm  
 <img src='./Images_of_README/algorithm.png'>
 
