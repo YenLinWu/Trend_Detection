@@ -11,9 +11,11 @@ A manufacturing process should be in control to assess the process capability. N
 
 Image Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbar_chart_for_a_paired_xbar_and_R_chart.svg)  
  
-In our work, we will monitor the trend of the data over time for ensuring trends in data are consistent. Becasuse there is a trend in the data over time, we cannot use the SPC chart to objectively assess process capability. Here, we use **Dissimilarity Measure** to monitor the trend of the data. A dissimilarity measure is applicable to time-series data and is a very robust technique to compare two or more time-series data.  
+In our work, we will monitor the trend of the data over time for ensuring trends in data are consistent. Becasuse there is a trend in the data over time, we cannot use the SPC chart to objectively assess process capability. Here, we use **Dissimilarity Analytics** to monitor the trend of the data. A dissimilarity analytics is applicable to time-series data and is a very robust technique to compare two or more time-series data.  
 
 ## Algorithm  
+There are three main machine learning models of our algorithm : **Dynamic Time Warping**, **Multidimensional Scaling** and **K-means**. The overall structure of algorithm is shown in the following figure.
+  
 <img src='./Images_of_README/algorithm.png'>
 
 [1] Dynamic Time Warping, DTW [ [Studying Note](https://colab.research.google.com/github/YenLinWu/Trend_Detection/blob/main/Dynamic_Time_Warping/Studying_Note.ipynb) ]    
