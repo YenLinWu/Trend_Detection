@@ -11,7 +11,7 @@ A manufacturing process should be in control to assess the process capability. N
 
 Image Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbar_chart_for_a_paired_xbar_and_R_chart.svg)  
  
-In our work, we will monitor the trend of the data over time for ensuring trends in data are consistent. Becasuse there is a trend in the data over time, we cannot use the SPC chart to objectively assess process capability. Here, we use **Dissimilarity Analytics** to monitor the trend of the data. A dissimilarity analytics is applicable to time-series data and is a very robust technique to compare two or more time-series data.  
+In this work, we will monitor the trend of the data over time for ensuring trends in data are consistent. Becasuse there is a trend in the data over time, we cannot use the SPC chart to objectively assess process capability. Here, we use **Dissimilarity Analytics** to monitor the trend of the data. A dissimilarity analytics is applicable to time-series data and is a very robust technique to compare two or more time-series data.  
 
 ## Algorithm  
 There are three main machine learning models of our algorithm : **Dynamic Time Warping**, **Multidimensional Scaling** and **K-means**. The overall structure of algorithm is shown in the following figure.
@@ -35,8 +35,8 @@ The overall pattern of the sample dataset is shown in the following figure. Firs
 * Test Data   
 Now, we will detect the pattern of each test data (Test 1~6 in the above figure) by comparing each test data and defined normal data.  
   
-* Model Performance  
-  From the above figure, we intuitively get the feeling that the trend of the Test 5 and Test 6 are obviously flat. This algorithm confirms our feelings! This model detector can effectively distinguish differences in trends and the performance is stable. We can view the detection results of each test data from the following figure and gif.       
+* Model Performance (offline)  
+  From the above figure, we intuitively get the feeling that the trend of the Test 5 and Test 6 are obviously flat. This algorithm confirms our feelings! This model can effectively distinguish differences in trends and the model performance is stable. We can view the detection results of each test data in the following figure and gif.       
     
  
 <details>  
