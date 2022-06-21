@@ -5,11 +5,13 @@
 <span> - &copy; Tom Wu (<a href="https://github.com/YenLinWu">Github</a>) </span>  
 
 ## Objective    
-The statistical process control (SPC) chart is used to study the changes in the process over time by plotting data points, control limits, and a center line. A process should be in control to assess the process capability. The SPC chart was invented by [Walter A. Shewhart](https://en.wikipedia.org/wiki/Walter_A._Shewhart) working for Bell Labs in the 1920s. But, we cannot use the SPC chart to objectively assess process capability if there is a trend in the data over time.  
+A manufacturing process should be in control to assess the process capability. Nowadays, statistical process control (SPC) charts have been incorporated by organizations around the world as one of the primary tools to monitor and improve the control of a process. The statistical process control (SPC) chart was invented by [Walter A. Shewhart](https://en.wikipedia.org/wiki/Walter_A._Shewhart) working for Bell Labs in the 1920s. The SPC chart is used to study the changes in the process over time by plotting data points, control limits(管制上下界), and a center line(中心線). Note that a process is in statistical control when only common cause variation exist and when the statistical properties do not vary over time.  
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/9/93/Xbar_chart_for_a_paired_xbar_and_R_chart.svg' width='550'> 
-  
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/93/Xbar_chart_for_a_paired_xbar_and_R_chart.svg' width='450'>   
+
 Image Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xbar_chart_for_a_paired_xbar_and_R_chart.svg)  
+ 
+In our work, we will monitor the trend of the data over time for ensuring trends in data are consistent. Becasuse there is a trend in the data over time, we cannot use the SPC chart to objectively assess process capability. Here, we use **Dissimilarity Measure** to monitor the trend of the data. A dissimilarity measure is applicable to time-series data and is a very robust technique to compare two or more time-series data.  
 
 ## Algorithm  
 <img src='./Images_of_README/algorithm.png'>
