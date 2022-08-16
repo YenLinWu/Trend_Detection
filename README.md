@@ -28,21 +28,21 @@ The sample dataset in this work is from a real panel process by Electronic Data 
   <img src='./Images_of_README/sample_data.png' width='250'>  
 
 * Normal Pattern    
-The overall pattern of the sample dataset is shown in the following figure. First, the normal pattern must be defined. We define the normal pattern by the data from 2021/2/12 01:54:44 to 2021/2/19 15:17:28, i.e., the normal pattern is in [15784, 25000] time step subinterval.  
+The overall pattern of the sample dataset is shown in the following figure. First, the normal pattern must be defined. We define the normal pattern by the data from 2021/2/12 01:54 to 2021/2/19 15:17.  
 <p align='left'>
   <img src='./Output_Images_of_POC/Normal_and_Test_Data.png' width='750'>  
   
 * Test Data   
-Now, we will detect the pattern of each test data (Test 1~6 in the above figure) by comparing each test data and defined normal data.  
+Now, we will detect the pattern of each test data (Test 1~7 in the above figure) by comparing each test data and defined normal data.  
   
 * Model Performance (offline)  
-  From the above figure, we intuitively get the feeling that the trend of the Test 5 and Test 6 are obviously flat. This algorithm confirms our feelings! This model can effectively distinguish differences in trends and the model performance is stable. We can view the detection results of each test data in the following figure and gif.       
+  From the above figure, we intuitively get the feeling that the trend of the Test 6 and Test 7 are obviously flat. This algorithm confirms our feelings! This model can effectively distinguish differences in trends and the model performance is stable. We can view the detection results of each test data in the following figure and gif.       
     
  
 <details>  
 <summary> Test 1 Result </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_1.png' width='400'>  
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_1.png' width='450'>  
   <img src='./Output_Images_of_POC/Detection_Output_of_Test_1.gif' width='390'>  
       
   [[View original gif]](./Output_Images_of_POC/Detection_Output_of_Test_1.gif)  
@@ -51,7 +51,7 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 2 Result </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_2.png' width='400'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_2.png' width='450'>
   <img src='./Output_Images_of_POC/Detection_Output_of_Test_2.gif' width='390'>  
         
   [[View original gif]](./Output_Images_of_POC/Detection_Output_of_Test_2.gif)  
@@ -60,7 +60,7 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 3 Result </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_3.png' width='400'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_3.png' width='450'>
   <img src='./Output_Images_of_POC/Detection_Output_of_Test_3.gif' width='390'>  
           
   [[View original gif]](./Output_Images_of_POC/Detection_Output_of_Test_3.gif)  
@@ -69,7 +69,7 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 4 Result </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_4.png' width='400'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_4.png' width='450'>
   <img src='./Output_Images_of_POC/Detection_Output_of_Test_4.gif' width='390'>  
           
   [[View original gif]](./Output_Images_of_POC/Detection_Output_of_Test_4.gif)  
@@ -78,7 +78,7 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 5 Result </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_5.png' width='400'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_5.png' width='450'>
   <img src='./Output_Images_of_POC/Detection_Output_of_Test_5.gif' width='390'>  
           
   [[View original gif]](./Output_Images_of_POC/Detection_Output_of_Test_5.gif)  
@@ -87,12 +87,21 @@ Now, we will detect the pattern of each test data (Test 1~6 in the above figure)
 <details>  
 <summary> Test 6 Result </summary>
   <p align='left'>
-  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_6.png' width='400'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_6.png' width='450'>
   <img src='./Output_Images_of_POC/Detection_Output_of_Test_6.gif' width='390'>  
           
   [[View original gif]](./Output_Images_of_POC/Detection_Output_of_Test_6.gif)  
 </details>   
 
+<details>  
+<summary> Test 7 Result </summary>
+  <p align='left'>
+  <img src='./Output_Images_of_POC/Smoothing_Normal_and_Test_7.png' width='450'>  
+  <img src='./Output_Images_of_POC/Detection_Output_of_Test_7.gif' width='390'>  
+      
+  [[View original gif]](./Output_Images_of_POC/Detection_Output_of_Test_7.gif)  
+</details>  
+ 
 ## References  
 **[1]** Similarity Measures and Dimensionality Reduction Techniques for Time Series Data Mining, Carmelo Cassisi, Placido Montalto, Marco Aliotta, Andrea Cannata and Alfredo Pulvirenti, September 2012.  [ [Download Link](https://www.intechopen.com/chapters/39030) ]
 </br>   
