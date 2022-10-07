@@ -1,5 +1,5 @@
 # Trend Detection  
-![Python](https://img.shields.io/badge/Python-3.7.13-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.21.6-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.2.2-range.svg) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-1.0.2-range.svg) ![DTAIDistance](https://img.shields.io/badge/DTAIDistance-2.3.6-range.svg)
+![Python](https://img.shields.io/badge/Python-3.7.14-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.21.6-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.2.2-range.svg) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-1.0.2-range.svg) ![DTAIDistance](https://img.shields.io/badge/DTAIDistance-2.3.6-range.svg)
 
 ## Author  
 <span> - &copy; Tom Wu (<a href="https://github.com/YenLinWu">Github</a>) </span>  
